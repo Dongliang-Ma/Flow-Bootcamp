@@ -39,7 +39,7 @@
   :name: _era
   :hidden:
 
-  era/era
+  #era/era
 
 .. toctree::
   :maxdepth: 2
