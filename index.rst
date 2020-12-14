@@ -6,9 +6,9 @@
   :name: _prism_central
   :hidden:
 
-  what_is_prism_central/what_is_prism_central
-  prism_central_overview/prism_central_overview
-  prism_central_dashboards_reports/prism_central_dashboards_reports
+  #what_is_prism_central/what_is_prism_central
+  #prism_central_overview/prism_central_overview
+  #prism_central_dashboards_reports/prism_central_dashboards_reports
 
 .. toctree::
   :maxdepth: 2
@@ -16,10 +16,10 @@
   :name: _prism_pro
   :hidden:
 
-  what_is_prism_pro/what_is_prism_pro
-  prism_pro_efficiency_anomaly/prism_pro_efficiency_anomaly
-  prism_pro_resource_planning/prism_pro_resource_planning
-  prism_pro_xplay/prism_pro_xplay
+  #what_is_prism_pro/what_is_prism_pro
+  #prism_pro_efficiency_anomaly/prism_pro_efficiency_anomaly
+  #prism_pro_resource_planning/prism_pro_resource_planning
+  #prism_pro_xplay/prism_pro_xplay
 
 .. toctree::
   :maxdepth: 2
@@ -47,11 +47,11 @@
   :name: _files_labs
   :hidden:
 
-  files_deploy/files_deploy
-  files_smb_share/files_smb_share
-  files_nfs_export/files_nfs_export
-  file_analytics_deploy/file_analytics_deploy
-  file_analytics_scan/file_analytics_scan
+  #files_deploy/files_deploy
+  #files_smb_share/files_smb_share
+  #files_nfs_export/files_nfs_export
+  #file_analytics_deploy/file_analytics_deploy
+  #file_analytics_scan/file_analytics_scan
 
 .. toctree::
   :maxdepth: 2
@@ -59,11 +59,11 @@
   :name: _calm
   :hidden:
 
-  what_is_calm/what_is_calm
-  calm_enable/calm_enable
-  calm_projects/calm_projects
-  calm_linux/calm_linux
-  calm_win/calm_win
+  #what_is_calm/what_is_calm
+  #calm_enable/calm_enable
+  #calm_projects/calm_projects
+  #calm_linux/calm_linux
+  #calm_win/calm_win
 
 
 .. toctree::
@@ -80,11 +80,11 @@
   :name: _appendix
   :hidden:
 
-  appendix/glossary
-  appendix/basics
+  #appendix/glossary
+  #appendix/basics
   tools_vms/windows_tools_vm
   tools_vms/linux_tools_vm_cloud-init
-  taskman/taskman
+  #taskman/taskman
 
 .. _getting_started:
 
